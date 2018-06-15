@@ -51,6 +51,6 @@ __*Notice:*__
 
 Installation
 ------------
-First if you missing Python 3.6 on your system, download it from [here](https://www.python.org/downloads/release/python-365/).
-Next execute on command line :
+First if you missing Python 3.6 on your system, install it from [here](https://www.python.org/downloads/release/python-365/).
+Then execute on command line :
 `pip install totra`
