@@ -27,10 +27,10 @@ __*Notice:*__
 *TopTracker user is invited to post thoughts, wishes and participate in development.*
 
 ```
-   tottra activities [--format=<format>] [--projects=<projects>] [--workers=<workers>] --from=<from_date> [--to=<to_date>] [-l login] [-p password] [-o output_filename]
-   tottra how_much_hours [--projects=<projects>] [--workers=<workers>] --from=<from_date> [--to=<to_date>] [-l login] [-p password]
-   tottra -h | --help
-   tottra --version
+   totra activities [--format=<format>] [--projects=<projects>] [--workers=<workers>] --from=<from_date> [--to=<to_date>] [-l login] [-p password] [-o output_filename]
+   totra how_much_hours [--projects=<projects>] [--workers=<workers>] --from=<from_date> [--to=<to_date>] [-l login] [-p password]
+   totra -h | --help
+   totra --version
  
  Commands:
    activities                Output activities in --format.
