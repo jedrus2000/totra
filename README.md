@@ -9,19 +9,21 @@ Purpose
 it comes to makes polls, reports etc. I find CLI tools much more productive then
 clicking around web page.
 
-The idea went from simple question: *how much hours I've worked today ?* 
+The idea went from simple question: *how much hours I've worked i.e this week ?* 
 With TopTracker web page, to know such information I had to: login to web page, click on 
 date range, export activities to csv, open spreadsheet software and import this csv,
- and then sum 
+ and then sum.
+With this you can just:
+`totra how_much_hours --workers="Andrzej Bargański" --from=Monday -l my@login.com -p mypassword`
+...and in second you see result !  
 
 Usage
 -----
-####*Notice:*
+__*Notice:*__
 *Application is still in planning area, commands, options etc. can change, and every* 
 *TopTracker user is invited to post thoughts, wishes and participate in development*
 
-`
-Usage:
+```
    tottra activities [--format=<format>] [--projects=<projects>] [--workers=<workers>] --from=<from_date> [--to=<to_date>] [-l login] [-p password] [-o output_filename]
    tottra how_much_hours [--projects=<projects>] [--workers=<workers>] --from=<from_date> [--to=<to_date>] [-l login] [-p password]
    tottra -h | --help
@@ -42,6 +44,4 @@ Usage:
    --version                 Show version.
    -l login                  User login name.
    -p password               User password.
-`
-
-
+```
