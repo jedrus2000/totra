@@ -18,7 +18,7 @@ With this tool I can just:
 
 `totra how_much_hours --workers="Andrzej Bargański" --from=Monday -l my@login.com -p mypassword`
 
-...and in second you see result !  
+...and in second I see the answer !  
 
 Usage
 -----
