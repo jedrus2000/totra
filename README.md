@@ -23,8 +23,8 @@ With this you can just:
 Usage
 -----
 __*Notice:*__
-*Application is still in planning area, commands, options etc. can change, and every* 
-*TopTracker user is invited to post thoughts, wishes and participate in development*
+*Application is still in planning stage. Commands, options etc. can change, and every* 
+*TopTracker user is invited to post thoughts, wishes and participate in development.*
 
 ```
    tottra activities [--format=<format>] [--projects=<projects>] [--workers=<workers>] --from=<from_date> [--to=<to_date>] [-l login] [-p password] [-o output_filename]
