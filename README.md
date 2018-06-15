@@ -48,3 +48,9 @@ __*Notice:*__
    -l login                  User login name.
    -p password               User password.
 ```
+
+Installation
+------------
+First if you missing Python 3.6 on your system, download it from [here](https://www.python.org/downloads/release/python-365/).
+Next execute on command line :
+`pip install totra`
